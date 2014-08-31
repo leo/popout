@@ -1,6 +1,8 @@
 popout
 ======
 
+<a href="https://chrome.google.com/webstore/detail/popout-for-youtube/bbcjkbaifcffjicnmchpogbdpcinckcj">Download from Chrome Web Store</a>
+
 Stell dir vor, du siehst gerade ein Video auf YouTube an. Nun möchtest du nebenbei noch etwas spielen, ein Dokument bearbeiten oder ähnliches - dir steht aber kein zweiter Bildschirm zur Verfügung.
 
 Dieses Plugin ermöglicht es dir, das angesehene Video in einem Popup zu öffnen, dessen Größe zu beliebig anpassen kannst. Es wird ein simpler Button zum YouTube-Player hinzugefügt, welcher bei Klick ein Popup mit dem jeweiligen Video öffnet - der aktuelle Zeitpunkt im Video wird selbstverständlich übernommen.
