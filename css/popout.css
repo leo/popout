@@ -1,0 +1,11 @@
+#player-api .html5-player-chrome .ytp-button-open-in-popup {
+	width: 30px;
+	height: 27px;
+	background: url('chrome-extension://__MSG_@@extension_id__/img/popup_icon.png') center 8px no-repeat;
+	float: right;
+	display: inline-block;
+}
+
+#player-api .html5-player-chrome .ytp-button-open-in-popup:hover {
+	background-position-y: -39px;
+}
